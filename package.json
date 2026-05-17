@@ -1,0 +1,26 @@
+{
+  "name": "bail-bonds-california-faq-guide",
+  "version": "1.0.0",
+  "description": "Complete bail bonds Q&A guide for California — Los Angeles, Orange County, Inglewood, Culver City, Anaheim | JRS Bail Bonds",
+  "main": "index.html",
+  "scripts": {
+    "lint": "npx markdownlint-cli2 \"**/*.md\" --ignore node_modules",
+    "build": "echo 'Static site — no build step required. Deploy via GitHub Pages.'"
+  },
+  "keywords": [
+    "bail-bonds",
+    "california",
+    "los-angeles",
+    "orange-county",
+    "criminal-law",
+    "legal-education",
+    "bail-bondsman"
+  ],
+  "author": "JRS Bail Bonds",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/umarmalghani07-cpu/bail-bonds-california-faq-guide.git"
+  },
+  "homepage": "https://umarmalghani07-cpu.github.io/bail-bonds-california-faq-guide/"
+}

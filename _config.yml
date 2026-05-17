@@ -1,0 +1,15 @@
+title: California Bail Bonds FAQ Guide — 2026
+description: Complete bail bonds Q&A guide for California — Los Angeles, Orange County, Inglewood, Culver City, Anaheim. Free legal education on California bail law.
+url: https://umarmalghani07-cpu.github.io
+baseurl: /bail-bonds-california-faq-guide
+permalink: /:basename/
+
+exclude:
+  - README.md
+  - README-CONTRIBUTING.md
+  - CHANGELOG.md
+  - LICENSE
+  - package.json
+  - node_modules/
+  - Gemfile
+  - Gemfile.lock

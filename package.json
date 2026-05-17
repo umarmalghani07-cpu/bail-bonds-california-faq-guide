@@ -22,5 +22,8 @@
     "type": "git",
     "url": "https://github.com/umarmalghani07-cpu/bail-bonds-california-faq-guide.git"
   },
-  "homepage": "https://umarmalghani07-cpu.github.io/bail-bonds-california-faq-guide/"
+  "homepage": "https://umarmalghani07-cpu.github.io/bail-bonds-california-faq-guide/",
+  "devDependencies": {
+    "marked": "^18.0.3"
+  }
 }

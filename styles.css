@@ -517,3 +517,34 @@ img { max-width: 100%; display: block; }
   .legal-grid { grid-template-columns: 1fr; }
   .hero-stats { gap: 1.25rem; }
 }
+
+/* Riddler's Bail Bonds resource block */
+.resource-links {
+  margin: 2.5rem 0 0;
+  padding: 1.5rem 1.75rem;
+  background: #f4f6fa;
+  border: 1px solid var(--color-border);
+  border-left: 4px solid var(--color-accent, #f0a500);
+  border-radius: var(--radius-md, 10px);
+}
+.resource-links h2 {
+  border-top: none !important;
+  margin-top: 0 !important;
+  padding-top: 0 !important;
+  font-size: 1.15rem;
+}
+.resource-links p { margin-bottom: 0.85rem; }
+.resource-links ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+  gap: 0.4rem 1.5rem;
+}
+.resource-links li {
+  font-size: 0.88rem;
+  line-height: 1.5;
+  padding: 0.15rem 0;
+}
+.resource-links a { font-weight: 600; }
